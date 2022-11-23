@@ -1,13 +1,22 @@
 {
-  "name": "Json-Api",
+  "name": "json-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Você pode iniciar a api na plataforma [Replit](https://replit.com)  ## Arquivos  > 📂 Json-Api/api.js [ Principal ]",
   "main": "api.js",
-  "keywords": [],
-  "author": "Ghostzinn07",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostzinn07/Json-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghostzinn07/Json-Api/issues"
+  },
+  "homepage": "https://github.com/Ghostzinn07/Json-Api#readme",
   "dependencies": {
-    "@types/node": "^18.0.6",
-    "express": "^4.18.1",
-    "node-fetch": "^3.2.6",
+    "express": "^4.18.2"
   }
 }
