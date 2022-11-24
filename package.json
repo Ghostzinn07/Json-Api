@@ -1,7 +1,7 @@
 {
   "name": "json-api",
   "version": "1.0.0",
-  "description": "> Você pode iniciar a api na plataforma [Replit](https://replit.com)  ## Arquivos  > 📂 Json-Api/api.js [ Principal ]",
+  "description": "Um pequeno exemplo de uma api usando express",
   "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Ghostzinn07/Json-Api.git"
   },
-  "author": "",
+  "author": "Ghostzinn07",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ghostzinn07/Json-Api/issues"
